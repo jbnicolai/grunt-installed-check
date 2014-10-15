@@ -1,0 +1,46 @@
+{
+  "name": "grunt-px-to-rem",
+  "description": "Checks if your NPM and Bower installs matches package.json and bower.json.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/walbo/grunt-installed-check",
+  "author": {
+    "name": "Petter Walbø Johnsgård",
+    "email": "petter@walbo.net",
+    "url": "http://walbo.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/walbo/grunt-installed-check.git"
+  },
+  "bugs": {
+    "url": "https://github.com/walbo/grunt-installed-check/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/walbo/grunt-installed-check/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "chalk": "~0.4.0",
+    "lodash": "~2.4.1",
+    "semver": "~4.0.3"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt": "~0.4.2"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "keywords": [
+    "gruntplugin",
+    "grunt",
+    "version",
+    "installed",
+    "check"
+  ]
+}
