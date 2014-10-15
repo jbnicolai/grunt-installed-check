@@ -1,5 +1,5 @@
 {
-  "name": "grunt-px-to-rem",
+  "name": "grunt-installed-check",
   "description": "Checks if your NPM and Bower installs matches package.json and bower.json.",
   "version": "0.1.0",
   "homepage": "https://github.com/walbo/grunt-installed-check",
